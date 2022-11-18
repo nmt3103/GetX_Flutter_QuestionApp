@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528700965249",
+    "project_id": "question-app-f33d7",
+    "storage_bucket": "question-app-f33d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528700965249:android:5fc7c0327e0a999d602880",
+        "android_client_info": {
+          "package_name": "com.example.flutter_questions_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528700965249-7vf9c7o5ka7465jcu3bc870cpa5f4gae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb7hwpywm8m8vpDyxENEMUVXmKScsmWY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528700965249-7vf9c7o5ka7465jcu3bc870cpa5f4gae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
